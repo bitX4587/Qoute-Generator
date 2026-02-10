@@ -1,6 +1,6 @@
 ## 📦 What's Included
 
-**Inspirational Quote Generator** (`https://github.com/bitX4587/Qoute-Generator`)
+**Inspirational Quote Generator** (`https://bitx4587.github.io/Qoute-Generator/`)
 
 A beautiful quote generator with multiple categories and save functionality.
 
